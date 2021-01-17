@@ -8,7 +8,7 @@ This is a sligthly modified version, for better Wonkley compatibility.
 
 See modules/box2d/LICENSE.txt for original Box2D License.
 
-Original Box2D uses methods called "Step", which is a Keyword Keyword. These Methods have been renamed into "Stepp".
+Original Box2D uses methods called "Step", which is a Wonkey Keyword. These Methods have been renamed into "Stepp".
 
 To install the module rename the downloaded folder to "box2d" and copy it to the "module" folder.
 
