@@ -1,0 +1,26 @@
+<<<<<<< HEAD
+# mx2 build directories
+*.build*/
+*.products
+*.products*/
+.mx2/
+.wx/
+*.geninfo
+
+############
+## Windows
+############
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+
+########
+## OSX
+########
+
+>>>>>>> origin/master
+.DS_Store
