@@ -1,0 +1,8 @@
+{
+	"module":"box2d",
+	"about":"box2d physics lib wrapper",
+	"author":"Erin Catto, wrapped by abakobo",
+	"version":"0.0.1",
+	"support":"https://github.com/abakobo/box2d-core-monkey2-module",
+	"depends":["std","mojo"]
+}
